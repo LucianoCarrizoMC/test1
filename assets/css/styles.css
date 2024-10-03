@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(232, 229, 248);
+}
+.links123{
+    width: 500px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 500px;
+    font-size: 15px;
+
+}
+a{ color: black;
+    margin-left: 15px;
+}
+a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  a:active {
+    text-decoration: underline;
+  }
+
+.imaguen12{
+    float: left;
+    margin-left: 20px;
+}
+.ads{
+
+    display: inline;
+    margin-left: 1200px;
+
+}
+.butom1{
+    background-color: rgb(232, 229, 248);
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    border-radius: 30px;
+}
+.encage{
+    width: 100%;
+
+}
+.text123{
+    margin-top: 100px;
+    font-size: 25px;
+    width: 800px;
+    display: inline-block;
+}
+.bottom2{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    border-radius: 30px;
+    margin-left: 10px;
+
+}
+.encage2{
+    float: right;
+    margin-top: 100px;
+    margin-right: 40px;
+}
+.encague31{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
